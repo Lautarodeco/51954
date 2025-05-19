@@ -1,7 +1,8 @@
-# README
+# Clona el repositorio
+git clone https://github.com/Lautarodeco/51954.git
 
-# Instalación
+# Entra al directorio del proyecto
+cd antlr-minic-project
 
-1-git clone https://github.com/Lautarodeco/51954.git \n
-2-cd antlr-minic-project \n
-3-npm start
+# Inicia la aplicación
+npm start
